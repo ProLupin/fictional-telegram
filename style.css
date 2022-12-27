@@ -1,0 +1,24 @@
+body{
+    background-color: hwb(183 12% 65% / 0.868);
+    color: rgb(13, 12, 12);
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: large;
+    border: 3px;
+    border-style: dotted;
+    border-color: rgb(232, 232, 243);
+}
+.heading{
+    font-family: 'Send Flowers', cursive;
+    font-size: 70px;
+    
+    
+}
+#camera{
+    border:2px rgba(0, 0, 0, 0.027) solid;
+    width:300px;
+    height:300px;
+    border-color: rgb(228, 179, 215);
+    border-style: dashed;
+    
+
+}
